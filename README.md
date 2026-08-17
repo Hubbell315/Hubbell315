@@ -99,10 +99,10 @@ C++ application that analyzes grocery purchase data using file I/O and `std::map
 
 ## Education
 
-**Bachelor of Science in Computer Science**
-**Concentration:** Software Engineering
-Southern New Hampshire University
-GPA: 3.96
+- **Degree:** Bachelor of Science in Computer Science
+- **Concentration:** Software Engineering
+- **University:** Southern New Hampshire University
+- **GPA:** 3.96
 
 Additional computer science studies completed at the University at Albany include data structures, algorithms, discrete structures, introductory computer science, and computing ethics.
 
